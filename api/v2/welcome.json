@@ -1,3 +1,11 @@
 {
-    "news":[]
+    "news":[
+        {
+            "id":"2023-01-01 12:00:00",
+            "title":"Play SiIvaGunner rips!",
+            "smallDescription":"Enjoy your favorite SiIvaGunner Jackbox rips in-game!",
+            "content":"# Credits: \n\n<https://www.youtube.com/@SiIvaGunner>",
+            "image":"news_images/banner.png"
+        }
+    ]
 }
