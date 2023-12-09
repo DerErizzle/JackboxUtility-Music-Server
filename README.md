@@ -1,3 +1,3 @@
-# JackboxUtility-Server
+# JackboxUtility-Music-Server
 
-This folder contains an example of a server used by the JackboxUtility App
+Play [SiIvaGunner](https://www.youtube.com/@SiIvaGunner) Jackbox rips.
