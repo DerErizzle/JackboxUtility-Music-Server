@@ -31,7 +31,21 @@
             "description": "You'll have to write in these games."
         }
     ],
-    "patchsCategories": [],
+    "patchsCategories": [
+        {
+            "id": "music_patch",
+            "name": "SiIvaGunner Music Patch",
+            "smallDescription": "Enjoy Jackbox with remixed audio from SiIvaGunner!",
+            "patchs": [
+                "jpp1_music",
+                "jpp3_music",
+                "jpp4_music",
+                "jpp5_music",
+                "jpp6_music",
+                "jpp7_music"
+            ]
+        }
+    ],
     "packs": [
         {
             "id": "jpp1",
