@@ -2,7 +2,7 @@
     "id":"jackbox-music",
     "name":"Jackbox Music Server",
     "description":"Enjoy Jackbox with remixed audio from the SiIvaGunner group!",
-    "image":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Music-Server/blob/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Music-Server/main/assets/news_images/logo.png",
 
     "urls":[
         {
