@@ -15,23 +15,8 @@
     "languages":["en"],
     "links": [
         {
-            "icon":"globe",
-            "url":"https://www.jackboxgames.com/",
-            "text":"Website"
-        },
-        {
-            "icon":"discord",
-            "url":"https://discord.com/invite/jackboxgames",
-            "text":"Discord"
-        },
-        {
-            "icon":"twitter",
-            "url":"https://twitter.com/jackboxgames",
-            "text":"Twitter"
-        },
-        {
             "icon":"youtube",
-            "url":"https://www.youtube.com/@Jackboxgames",
+            "url":"https://www.youtube.com/@SiIvaGunner",
             "text":"YouTube"
         }
      ]
